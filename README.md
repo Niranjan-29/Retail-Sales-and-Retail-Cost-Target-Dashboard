@@ -30,6 +30,7 @@ The dashboard helps in analyzing **sales trends, profit margins, cost allocation
  ┣ 📜 README.md
  ┣ 📊 Retail Sales and Retail Cost & Target-Dashboard.pbix
  ┗ 📂 Data (optional - if you want to include source files)
+```
 
 ## 📈 Key Insights
 
